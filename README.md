@@ -1,2 +1,3 @@
 # apna_college01
-This is a repository that will contain projects from apna@college
+This is my very first repository 
+Author Muhammaad Arham Khan
